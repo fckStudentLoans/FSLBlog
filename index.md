@@ -1,1 +1,2 @@
-![This is an image](http://fckstudentloans.com/assets/img/bg-masthead.jpg)
+
+<img src="http://fckstudentloans.com/assets/img/bg-masthead.jpg" />
